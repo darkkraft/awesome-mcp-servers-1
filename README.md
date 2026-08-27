@@ -382,6 +382,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- [munhq/codeindex](https://github.com/munhq/codeindex) - Structural code intelligence for agents: where a symbol is defined, one function's body, what calls it, imports in both directions, and what a change breaks — instead of reading whole files. tree-sitter across 40+ languages, 16 tools, one statically linked binary with no runtime and nothing to configure.
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
